@@ -12,7 +12,7 @@ A machine learning web application that predicts house prices in Boston using a 
 
 ## Project Structure
 
-```
+``
 boston-house-predictor/
 ├── app.py                          # Flask application
 ├── train_model.py                  # Model training script
